@@ -65,9 +65,6 @@ If you want to play around with this locally:
     ```
 5.  Hit **Run All** and watch the graphs pop up!
 
-## 📝 Final Thoughts
-
-Honestly, the hardest part was deciding what to do with the `Cabin` column. I almost dropped it entirely, but I think the 'Deck' information might have some signal regarding how close passengers were to lifeboats.
 
 Feel free to fork this, break it, or improve it. If you find a way to get the accuracy over 85%, let me know—I’m still chasing that high score! 🧊🚢
 
