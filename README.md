@@ -1,7 +1,3 @@
-Based on the `preprocess_titanic.ipynb` file you provided, I have crafted a README file that adopts a casual, "humanoid" developer tone. I've written this as if I were the developer explaining my thought process, struggles, and logic to a friend or colleague, rather than just listing technical specifications.
-
-You can copy and paste the markdown below directly into a `README.md` file.
-
 ***
 
 # 🚢 Diving into the Titanic: A Preprocessing Adventure
